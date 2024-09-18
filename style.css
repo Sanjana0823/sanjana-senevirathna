@@ -139,7 +139,6 @@ span{
 
 .home-content p{
     font-size: 1.6rem;
-    text-align: justify;
 }
 
 .home-img{
@@ -705,7 +704,7 @@ hr {
 .row:hover{
     transform: scale3d(1.03);
     background-color: #e8ecf2;
-    color: #000000;
+    color: #6f6f6f;
     box-shadow: 0 0 25px;
 }
 
@@ -732,7 +731,6 @@ hr {
 
 .layer p{
     font-size: 1.5rem;
-    text-align: justify;
 
 }
 
@@ -815,7 +813,6 @@ hr {
 .container-left{
     width: 40vw;
     font-size: 2rem;
-    text-align: justify;
     margin-left: 5rem;
 }
 
