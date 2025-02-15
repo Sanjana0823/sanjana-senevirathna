@@ -463,7 +463,7 @@ hr {
 }
 
 .progress-line.js span::after{
-    content: "50%";
+    content: "80%";
 }
 
 .progress-line.java span::after{
