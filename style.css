@@ -467,7 +467,7 @@ hr {
 }
 
 .progress-line.java span::after{
-    content: "60%";
+    content: "75%";
 }
 
 .progress-line.python span::after{
@@ -475,7 +475,7 @@ hr {
 }
 
 .progress-line.react span::after{
-    content: "20%";
+    content: "80%";
 }
 
 .progress-line span::before{
