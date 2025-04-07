@@ -37,9 +37,9 @@ header{
 
 .logo{
     font-size: 3rem;
-    font-family: 'Lucida Handwriting', Cursive;    
+    /* font-family: 'Lucida Handwriting', Cursive;     */
     color: #895525;
-    font-weight: 800;
+    font-weight: 500;
     cursor: pointer;
     transition: 0.5s ease;
 }
